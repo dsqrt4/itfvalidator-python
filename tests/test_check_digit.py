@@ -1,5 +1,5 @@
 import pytest
-import itf.check_digit as check_digit
+import pyitf.check_digit as check_digit
 
 
 @pytest.mark.parametrize("code,expected", [

@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "itf-validator"
+name = "pyitf"
 version = "0.1.0"
-description = "Provides trivial support for working with Interleaved 2 of 5 codes."
-license = "GPL-3.0-or-later"
+description = "Provides trivial support for working with Interleaved 2 of 5 (aka itf or i25) bar codes in Python."
+license = "MIT"
 authors = ["dsqrt4 <44970945+dsqrt4@users.noreply.github.com>"]
 readme = "README.md"
 

@@ -1,6 +1,6 @@
 from typing import Tuple
-from itf.check_digit import calculate_check_digit
-from itf.internal import digits
+from pyitf.check_digit import calculate_check_digit
+from pyitf.internal import digits
 
 
 def split_code(itf: int) -> Tuple[int, int]:

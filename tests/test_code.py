@@ -1,5 +1,5 @@
 import pytest
-import itf.code as code
+import pyitf.code as code
 
 
 @pytest.mark.parametrize("i25,expected", [

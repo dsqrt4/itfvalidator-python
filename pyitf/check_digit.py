@@ -1,4 +1,4 @@
-import itf.internal as internal
+import pyitf.internal as internal
 
 
 def calculate_check_digit(code: int) -> int:

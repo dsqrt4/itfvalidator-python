@@ -1,3 +1,4 @@
-# Python Interleaved 2 of 5 Validator (itfvalidator)
+# PyITF - Interleaved 2 of 5 Code Utilities
 
-Provides trivial support for working with Interleaved 2 of 5 (aka itf/i25) codes, i. e. calculating and validating check digits.
+Provides trivial support for working with [*Interleaved 2 of 5*](https://en.wikipedia.org/wiki/Interleaved_2_of_5)
+(aka *itf* or *i25*) bar codes in Python.

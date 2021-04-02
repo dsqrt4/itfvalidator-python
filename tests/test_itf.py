@@ -1,4 +1,4 @@
-from itf import __version__
+from pyitf import __version__
 
 
 def test_version():
